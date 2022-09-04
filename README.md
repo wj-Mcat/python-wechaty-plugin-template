@@ -1,6 +1,6 @@
-# python-wechaty-plugin-template
+# python-wechaty-plugin-<foo>
 
-plugin template for python-wechaty
+<foo> plugin which ...
 
 ## Features
 
